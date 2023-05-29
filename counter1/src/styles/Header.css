@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  text-align: center;
+}
+.header {
+  background-color: rgb(92, 46, 4);
+  border: solid rgb(92, 46, 4) 5px;
+  margin: auto;
+  color: white;
+  width: 69%;
+}
+.head {
+  border: solid rgb(240, 171, 111) 2px;
+  width: 22%;
+  margin: auto;
+  border-radius: 2px;
+}
+.count {
+  color: white;
+  background-color: rgba(184, 97, 21, 0.788);
+  margin: auto;
+  width: 66%;
+  height: 12rem;
+  border: solid rgba(184, 97, 21, 0.788) 25px;
+}
+.count1 {
+  background-color: rgb(223, 180, 143);
+  height: 12rem;
+  margin: auto;
+}
+.count2 {
+  font-size: 5rem;
+}
+.btn {
+  color: white;
+  background-color: rgb(92, 46, 4);
+  border: solid rgba(7, 73, 7, 0.76);
+  border-radius: 4px;
+  margin: 5px;
+}
+
+.power:hover {
+  color: rgba(7, 73, 7, 0.76);
+  font-size: 20px;
+  text-decoration: none;
+}
