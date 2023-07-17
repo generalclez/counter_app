@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "../styles/Header.css";
 
 class Welcome extends Component {
   render() {
